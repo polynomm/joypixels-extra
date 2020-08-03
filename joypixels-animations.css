@@ -1,0 +1,237 @@
+[class*=jpa-] {
+    display: inline-block;
+    line-height: normal;
+    vertical-align: middle;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  
+  .jpa-1em {
+    width: 1em !important;
+    height: 1em !important;
+    margin: -0.2ex 0.05em 0 0.1em !important;
+    background-size: 1em 1em !important;
+  }
+  
+  .jpa-2em {
+    width: 2em !important;
+    height: 2em !important;
+    margin: -0.4ex 0.1em 0 0.2em !important;
+    background-size: 2em 2em !important;
+  }
+  
+  .jpa-3em {
+    width: 3em;
+    height: 3em;
+    margin: -0.3ex 0.15em 0 0.3em;
+    background-size: 3em 3em;
+  }
+  
+  .jpa-4em {
+    width: 4em;
+    height: 4em;
+    margin: -0.8ex 0.2em 0 0.4em;
+    background-size: 4em 4em;
+  }
+.jpa-anim-rel-airplane{background-image:url("animations/assets/1.0/png/labeled/128/airplane.gif");}
+.jpa-anim-rel-alarm_clock{background-image:url("animations/assets/1.0/png/labeled/128/alarm-clock.gif");}
+.jpa-anim-rel-alien{background-image:url("animations/assets/1.0/png/labeled/128/alien.gif");}
+.jpa-anim-rel-automobile{background-image:url("animations/assets/1.0/png/labeled/128/automobile.gif");}
+.jpa-anim-rel-backhand_index_pointing_down{background-image:url("animations/assets/1.0/png/labeled/128/backhand-index-pointing-down.gif");}
+.jpa-anim-rel-backhand_index_pointing_left{background-image:url("animations/assets/1.0/png/labeled/128/backhand-index-pointing-left.gif");}
+.jpa-anim-rel-backhand_index_pointing_right{background-image:url("animations/assets/1.0/png/labeled/128/backhand-index-pointing-right.gif");}
+.jpa-anim-rel-backhand_index_pointing_up{background-image:url("animations/assets/1.0/png/labeled/128/backhand-index-pointing-up.gif");}
+.jpa-anim-rel-beaming_face_with_smiling_eyes{background-image:url("animations/assets/1.0/png/labeled/128/beaming-face-with-smiling-eyes.gif");}
+.jpa-anim-rel-birthday_cake{background-image:url("animations/assets/1.0/png/labeled/128/birthday-cake.gif");}
+.jpa-anim-rel-bomb{background-image:url("animations/assets/1.0/png/labeled/128/bomb.gif");}
+.jpa-anim-rel-bottle_with_popping_cork{background-image:url("animations/assets/1.0/png/labeled/128/bottle-with-popping-cork.gif");}
+.jpa-anim-rel-bowling{background-image:url("animations/assets/1.0/png/labeled/128/bowling.gif");}
+.jpa-anim-rel-broken_heart{background-image:url("animations/assets/1.0/png/labeled/128/broken-heart.gif");}
+.jpa-anim-rel-butterfly{background-image:url("animations/assets/1.0/png/labeled/128/butterfly.gif");}
+.jpa-anim-rel-camera_with_flash{background-image:url("animations/assets/1.0/png/labeled/128/camera-with-flash.gif");}
+.jpa-anim-rel-cat_with_tears_of_joy{background-image:url("animations/assets/1.0/png/labeled/128/cat-with-tears-of-joy.gif");}
+.jpa-anim-rel-check_mark_button{background-image:url("animations/assets/1.0/png/labeled/128/check-mark-button.gif");}
+.jpa-anim-rel-christmas_tree{background-image:url("animations/assets/1.0/png/labeled/128/christmas-tree.gif");}
+.jpa-anim-rel-clapper_board{background-image:url("animations/assets/1.0/png/labeled/128/clapper-board.gif");}
+.jpa-anim-rel-clapping_hands{background-image:url("animations/assets/1.0/png/labeled/128/clapping-hands.gif");}
+.jpa-anim-rel-clinking_beer_mugs{background-image:url("animations/assets/1.0/png/labeled/128/clinking-beer-mugs.gif");}
+.jpa-anim-rel-clinking_glasses{background-image:url("animations/assets/1.0/png/labeled/128/clinking-glasses.gif");}
+.jpa-anim-rel-clock{background-image:url("animations/assets/1.0/png/labeled/128/clock.gif");}
+.jpa-anim-rel-cold_face{background-image:url("animations/assets/1.0/png/labeled/128/cold-face.gif");}
+.jpa-anim-rel-collision{background-image:url("animations/assets/1.0/png/labeled/128/collision.gif");}
+.jpa-anim-rel-confetti_ball{background-image:url("animations/assets/1.0/png/labeled/128/confetti-ball.gif");}
+.jpa-anim-rel-cow_face{background-image:url("animations/assets/1.0/png/labeled/128/cow-face.gif");}
+.jpa-anim-rel-cowboy_hat_face{background-image:url("animations/assets/1.0/png/labeled/128/cowboy-hat-face.gif");}
+.jpa-anim-rel-crossed_fingers{background-image:url("animations/assets/1.0/png/labeled/128/crossed-fingers.gif");}
+.jpa-anim-rel-crown{background-image:url("animations/assets/1.0/png/labeled/128/crown.gif");}
+.jpa-anim-rel-crying_face{background-image:url("animations/assets/1.0/png/labeled/128/crying-face.gif");}
+.jpa-anim-rel-desert_island{background-image:url("animations/assets/1.0/png/labeled/128/desert-island.gif");}
+.jpa-anim-rel-direct_hit{background-image:url("animations/assets/1.0/png/labeled/128/direct-hit.gif");}
+.jpa-anim-rel-dizzy_face{background-image:url("animations/assets/1.0/png/labeled/128/dizzy-face.gif");}
+.jpa-anim-rel-dog_face{background-image:url("animations/assets/1.0/png/labeled/128/dog-face.gif");}
+.jpa-anim-rel-drooling_face{background-image:url("animations/assets/1.0/png/labeled/128/drooling-face.gif");}
+.jpa-anim-rel-drum{background-image:url("animations/assets/1.0/png/labeled/128/drum.gif");}
+.jpa-anim-rel-exploding_head{background-image:url("animations/assets/1.0/png/labeled/128/exploding-head.gif");}
+.jpa-anim-rel-eyes{background-image:url("animations/assets/1.0/png/labeled/128/eyes.gif");}
+.jpa-anim-rel-face_blowing_a_kiss{background-image:url("animations/assets/1.0/png/labeled/128/face-blowing-a-kiss.gif");}
+.jpa-anim-rel-face_screaming_in_fear{background-image:url("animations/assets/1.0/png/labeled/128/face-screaming-in-fear.gif");}
+.jpa-anim-rel-face_vomiting{background-image:url("animations/assets/1.0/png/labeled/128/face-vomiting.gif");}
+.jpa-anim-rel-face_with_head_bandage{background-image:url("animations/assets/1.0/png/labeled/128/face-with-head-bandage.gif");}
+.jpa-anim-rel-face_with_monocle{background-image:url("animations/assets/1.0/png/labeled/128/face-with-monocle.gif");}
+.jpa-anim-rel-face_with_rolling_eyes{background-image:url("animations/assets/1.0/png/labeled/128/face-with-rolling-eyes.gif");}
+.jpa-anim-rel-face_with_steam_from_nose{background-image:url("animations/assets/1.0/png/labeled/128/face-with-steam-from-nose.gif");}
+.jpa-anim-rel-face_with_symbols_on_mouth{background-image:url("animations/assets/1.0/png/labeled/128/face-with-symbols-on-mouth.gif");}
+.jpa-anim-rel-face_with_tears_of_joy{background-image:url("animations/assets/1.0/png/labeled/128/face-with-tears-of-joy.gif");}
+.jpa-anim-rel-face_with_thermometer{background-image:url("animations/assets/1.0/png/labeled/128/face-with-thermometer.gif");}
+.jpa-anim-rel-fairy{background-image:url("animations/assets/1.0/png/labeled/128/fairy.gif");}
+.jpa-anim-rel-ferris_wheel{background-image:url("animations/assets/1.0/png/labeled/128/ferris-wheel.gif");}
+.jpa-anim-rel-fire{background-image:url("animations/assets/1.0/png/labeled/128/fire.gif");}
+.jpa-anim-rel-fire_engine{background-image:url("animations/assets/1.0/png/labeled/128/fire-engine.gif");}
+.jpa-anim-rel-fireworks{background-image:url("animations/assets/1.0/png/labeled/128/fireworks.gif");}
+.jpa-anim-rel-fish{background-image:url("animations/assets/1.0/png/labeled/128/fish.gif");}
+.jpa-anim-rel-fishing_pole{background-image:url("animations/assets/1.0/png/labeled/128/fishing-pole.gif");}
+.jpa-anim-rel-flag_in_hole{background-image:url("animations/assets/1.0/png/labeled/128/flag-in-hole.gif");}
+.jpa-anim-rel-flexed_biceps{background-image:url("animations/assets/1.0/png/labeled/128/flexed-biceps.gif");}
+.jpa-anim-rel-flushed_face{background-image:url("animations/assets/1.0/png/labeled/128/flushed-face.gif");}
+.jpa-anim-rel-flying_saucer{background-image:url("animations/assets/1.0/png/labeled/128/flying-saucer.gif");}
+.jpa-anim-rel-frog{background-image:url("animations/assets/1.0/png/labeled/128/frog.gif");}
+.jpa-anim-rel-frowning_face{background-image:url("animations/assets/1.0/png/labeled/128/frowning-face.gif");}
+.jpa-anim-rel-ghost{background-image:url("animations/assets/1.0/png/labeled/128/ghost.gif");}
+.jpa-anim-rel-globe{background-image:url("animations/assets/1.0/png/labeled/128/globe.gif");}
+.jpa-anim-rel-grinning_face_with_smiling_eyes{background-image:url("animations/assets/1.0/png/labeled/128/grinning-face-with-smiling-eyes.gif");}
+.jpa-anim-rel-grinning_squinting_face{background-image:url("animations/assets/1.0/png/labeled/128/grinning-squinting-face.gif");}
+.jpa-anim-rel-growing_heart{background-image:url("animations/assets/1.0/png/labeled/128/growing-heart.gif");}
+.jpa-anim-rel-hamburger{background-image:url("animations/assets/1.0/png/labeled/128/hamburger.gif");}
+.jpa-anim-rel-handshake{background-image:url("animations/assets/1.0/png/labeled/128/handshake.gif");}
+.jpa-anim-rel-hear_no_evil_monkey{background-image:url("animations/assets/1.0/png/labeled/128/hear-no-evil-monkey.gif");}
+.jpa-anim-rel-heart_with_arrow{background-image:url("animations/assets/1.0/png/labeled/128/heart-with-arrow.gif");}
+.jpa-anim-rel-helicopter{background-image:url("animations/assets/1.0/png/labeled/128/helicopter.gif");}
+.jpa-anim-rel-honeybee{background-image:url("animations/assets/1.0/png/labeled/128/honeybee.gif");}
+.jpa-anim-rel-horse{background-image:url("animations/assets/1.0/png/labeled/128/horse.gif");}
+.jpa-anim-rel-hot_beverage{background-image:url("animations/assets/1.0/png/labeled/128/hot-beverage.gif");}
+.jpa-anim-rel-hot_face{background-image:url("animations/assets/1.0/png/labeled/128/hot-face.gif");}
+.jpa-anim-rel-hugging_face{background-image:url("animations/assets/1.0/png/labeled/128/hugging-face.gif");}
+.jpa-anim-rel-hundred_points{background-image:url("animations/assets/1.0/png/labeled/128/hundred-points.gif");}
+.jpa-anim-rel-hushed_face{background-image:url("animations/assets/1.0/png/labeled/128/hushed-face.gif");}
+.jpa-anim-rel-jack_o_lantern{background-image:url("animations/assets/1.0/png/labeled/128/jack-o-lantern.gif");}
+.jpa-anim-rel-kangaroo{background-image:url("animations/assets/1.0/png/labeled/128/kangaroo.gif");}
+.jpa-anim-rel-kiss_mark{background-image:url("animations/assets/1.0/png/labeled/128/kiss-mark.gif");}
+.jpa-anim-rel-light_bulb{background-image:url("animations/assets/1.0/png/labeled/128/light-bulb.gif");}
+.jpa-anim-rel-locomotive{background-image:url("animations/assets/1.0/png/labeled/128/locomotive.gif");}
+.jpa-anim-rel-loudly_crying_face{background-image:url("animations/assets/1.0/png/labeled/128/loudly-crying-face.gif");}
+.jpa-anim-rel-love_you_gesture{background-image:url("animations/assets/1.0/png/labeled/128/love-you-gesture.gif");}
+.jpa-anim-rel-lying_face{background-image:url("animations/assets/1.0/png/labeled/128/lying-face.gif");}
+.jpa-anim-rel-man_biking{background-image:url("animations/assets/1.0/png/labeled/128/man-biking.gif");}
+.jpa-anim-rel-man_dancing{background-image:url("animations/assets/1.0/png/labeled/128/man-dancing.gif");}
+.jpa-anim-rel-man_facepalming{background-image:url("animations/assets/1.0/png/labeled/128/man-facepalming.gif");}
+.jpa-anim-rel-man_fairy{background-image:url("animations/assets/1.0/png/labeled/128/man-fairy.gif");}
+.jpa-anim-rel-man_juggling{background-image:url("animations/assets/1.0/png/labeled/128/man-juggling.gif");}
+.jpa-anim-rel-man_raising_hand{background-image:url("animations/assets/1.0/png/labeled/128/man-raising-hand.gif");}
+.jpa-anim-rel-man_running{background-image:url("animations/assets/1.0/png/labeled/128/man-running.gif");}
+.jpa-anim-rel-man_shrugging{background-image:url("animations/assets/1.0/png/labeled/128/man-shrugging.gif");}
+.jpa-anim-rel-man_tipping_hand{background-image:url("animations/assets/1.0/png/labeled/128/man-tipping-hand.gif");}
+.jpa-anim-rel-man_zombie{background-image:url("animations/assets/1.0/png/labeled/128/man-zombie.gif");}
+.jpa-anim-rel-men_with_bunny_ears{background-image:url("animations/assets/1.0/png/labeled/128/men-with-bunny-ears.gif");}
+.jpa-anim-rel-middle_finger{background-image:url("animations/assets/1.0/png/labeled/128/middle-finger.gif");}
+.jpa-anim-rel-money_mouth_face{background-image:url("animations/assets/1.0/png/labeled/128/money-mouth-face.gif");}
+.jpa-anim-rel-money_with_wings{background-image:url("animations/assets/1.0/png/labeled/128/money-with-wings.gif");}
+.jpa-anim-rel-musical_notes{background-image:url("animations/assets/1.0/png/labeled/128/musical-notes.gif");}
+.jpa-anim-rel-nerd_face{background-image:url("animations/assets/1.0/png/labeled/128/nerd-face.gif");}
+.jpa-anim-rel-oncoming_fist{background-image:url("animations/assets/1.0/png/labeled/128/oncoming-fist.gif");}
+.jpa-anim-rel-oncoming_police_car{background-image:url("animations/assets/1.0/png/labeled/128/oncoming-police-car.gif");}
+.jpa-anim-rel-owl{background-image:url("animations/assets/1.0/png/labeled/128/owl.gif");}
+.jpa-anim-rel-pancakes{background-image:url("animations/assets/1.0/png/labeled/128/pancakes.gif");}
+.jpa-anim-rel-party_popper{background-image:url("animations/assets/1.0/png/labeled/128/party-popper.gif");}
+.jpa-anim-rel-partying_face{background-image:url("animations/assets/1.0/png/labeled/128/partying-face.gif");}
+.jpa-anim-rel-peace_symbol{background-image:url("animations/assets/1.0/png/labeled/128/peace-symbol.gif");}
+.jpa-anim-rel-penguin{background-image:url("animations/assets/1.0/png/labeled/128/penguin.gif");}
+.jpa-anim-rel-people_with_bunny_ears{background-image:url("animations/assets/1.0/png/labeled/128/people-with-bunny-ears.gif");}
+.jpa-anim-rel-person_biking{background-image:url("animations/assets/1.0/png/labeled/128/person-biking.gif");}
+.jpa-anim-rel-person_facepalming{background-image:url("animations/assets/1.0/png/labeled/128/person-facepalming.gif");}
+.jpa-anim-rel-person_juggling{background-image:url("animations/assets/1.0/png/labeled/128/person-juggling.gif");}
+.jpa-anim-rel-person_raising_hand{background-image:url("animations/assets/1.0/png/labeled/128/person-raising-hand.gif");}
+.jpa-anim-rel-person_running{background-image:url("animations/assets/1.0/png/labeled/128/person-running.gif");}
+.jpa-anim-rel-person_shrugging{background-image:url("animations/assets/1.0/png/labeled/128/person-shrugging.gif");}
+.jpa-anim-rel-person_tipping_hand{background-image:url("animations/assets/1.0/png/labeled/128/person-tipping-hand.gif");}
+.jpa-anim-rel-pig_face{background-image:url("animations/assets/1.0/png/labeled/128/pig-face.gif");}
+.jpa-anim-rel-pile_of_poo{background-image:url("animations/assets/1.0/png/labeled/128/pile-of-poo.gif");}
+.jpa-anim-rel-pistol{background-image:url("animations/assets/1.0/png/labeled/128/pistol.gif");}
+.jpa-anim-rel-pleading_face{background-image:url("animations/assets/1.0/png/labeled/128/pleading-face.gif");}
+.jpa-anim-rel-police_car_light{background-image:url("animations/assets/1.0/png/labeled/128/police-car-light.gif");}
+.jpa-anim-rel-popcorn{background-image:url("animations/assets/1.0/png/labeled/128/popcorn.gif");}
+.jpa-anim-rel-pouting_face{background-image:url("animations/assets/1.0/png/labeled/128/pouting-face.gif");}
+.jpa-anim-rel-prohibited{background-image:url("animations/assets/1.0/png/labeled/128/prohibited.gif");}
+.jpa-anim-rel-rabbit_face{background-image:url("animations/assets/1.0/png/labeled/128/rabbit-face.gif");}
+.jpa-anim-rel-rainbow_flag{background-image:url("animations/assets/1.0/png/labeled/128/rainbow-flag.gif");}
+.jpa-anim-rel-raising_hands{background-image:url("animations/assets/1.0/png/labeled/128/raising-hands.gif");}
+.jpa-anim-rel-relieved_face{background-image:url("animations/assets/1.0/png/labeled/128/relieved-face.gif");}
+.jpa-anim-rel-revolving_hearts{background-image:url("animations/assets/1.0/png/labeled/128/revolving-hearts.gif");}
+.jpa-anim-rel-ring{background-image:url("animations/assets/1.0/png/labeled/128/ring.gif");}
+.jpa-anim-rel-robot{background-image:url("animations/assets/1.0/png/labeled/128/robot.gif");}
+.jpa-anim-rel-rocket{background-image:url("animations/assets/1.0/png/labeled/128/rocket.gif");}
+.jpa-anim-rel-roller_coaster{background-image:url("animations/assets/1.0/png/labeled/128/roller-coaster.gif");}
+.jpa-anim-rel-rolling_on_the_floor_laughing{background-image:url("animations/assets/1.0/png/labeled/128/rolling-on-the-floor-laughing.gif");}
+.jpa-anim-rel-rooster{background-image:url("animations/assets/1.0/png/labeled/128/rooster.gif");}
+.jpa-anim-rel-sandwich{background-image:url("animations/assets/1.0/png/labeled/128/sandwich.gif");}
+.jpa-anim-rel-santa_claus{background-image:url("animations/assets/1.0/png/labeled/128/santa-claus.gif");}
+.jpa-anim-rel-see_no_evil_monkey{background-image:url("animations/assets/1.0/png/labeled/128/see-no-evil-monkey.gif");}
+.jpa-anim-rel-shushing_face{background-image:url("animations/assets/1.0/png/labeled/128/shushing-face.gif");}
+.jpa-anim-rel-sleeping_face{background-image:url("animations/assets/1.0/png/labeled/128/sleeping-face.gif");}
+.jpa-anim-rel-slot_machine{background-image:url("animations/assets/1.0/png/labeled/128/slot-machine.gif");}
+.jpa-anim-rel-sloth{background-image:url("animations/assets/1.0/png/labeled/128/sloth.gif");}
+.jpa-anim-rel-smiling_face{background-image:url("animations/assets/1.0/png/labeled/128/smiling-face.gif");}
+.jpa-anim-rel-smiling_face_with_halo{background-image:url("animations/assets/1.0/png/labeled/128/smiling-face-with-halo.gif");}
+.jpa-anim-rel-smiling_face_with_heart_eyes{background-image:url("animations/assets/1.0/png/labeled/128/smiling-face-with-heart-eyes.gif");}
+.jpa-anim-rel-smiling_face_with_hearts{background-image:url("animations/assets/1.0/png/labeled/128/smiling-face-with-hearts.gif");}
+.jpa-anim-rel-smiling_face_with_horns{background-image:url("animations/assets/1.0/png/labeled/128/smiling-face-with-horns.gif");}
+.jpa-anim-rel-smiling_face_with_sunglasses{background-image:url("animations/assets/1.0/png/labeled/128/smiling-face-with-sunglasses.gif");}
+.jpa-anim-rel-smirking_face{background-image:url("animations/assets/1.0/png/labeled/128/smirking-face.gif");}
+.jpa-anim-rel-snake{background-image:url("animations/assets/1.0/png/labeled/128/snake.gif");}
+.jpa-anim-rel-sneezing_face{background-image:url("animations/assets/1.0/png/labeled/128/sneezing-face.gif");}
+.jpa-anim-rel-snowman{background-image:url("animations/assets/1.0/png/labeled/128/snowman.gif");}
+.jpa-anim-rel-soccer_ball{background-image:url("animations/assets/1.0/png/labeled/128/soccer-ball.gif");}
+.jpa-anim-rel-sparkles{background-image:url("animations/assets/1.0/png/labeled/128/sparkles.gif");}
+.jpa-anim-rel-sparkling_heart{background-image:url("animations/assets/1.0/png/labeled/128/sparkling-heart.gif");}
+.jpa-anim-rel-speak_no_evil_monkey{background-image:url("animations/assets/1.0/png/labeled/128/speak-no-evil-monkey.gif");}
+.jpa-anim-rel-sport_utility_vehicle{background-image:url("animations/assets/1.0/png/labeled/128/sport-utility-vehicle.gif");}
+.jpa-anim-rel-spouting_whale{background-image:url("animations/assets/1.0/png/labeled/128/spouting-whale.gif");}
+.jpa-anim-rel-star_struck{background-image:url("animations/assets/1.0/png/labeled/128/star-struck.gif");}
+.jpa-anim-rel-sun{background-image:url("animations/assets/1.0/png/labeled/128/sun.gif");}
+.jpa-anim-rel-sunrise{background-image:url("animations/assets/1.0/png/labeled/128/sunrise.gif");}
+.jpa-anim-rel-teddy_bear{background-image:url("animations/assets/1.0/png/labeled/128/teddy-bear.gif");}
+.jpa-anim-rel-thinking_face{background-image:url("animations/assets/1.0/png/labeled/128/thinking-face.gif");}
+.jpa-anim-rel-thought_balloon{background-image:url("animations/assets/1.0/png/labeled/128/thought-balloon.gif");}
+.jpa-anim-rel-thumbs_down{background-image:url("animations/assets/1.0/png/labeled/128/thumbs-down.gif");}
+.jpa-anim-rel-thumbs_up{background-image:url("animations/assets/1.0/png/labeled/128/thumbs-up.gif");}
+.jpa-anim-rel-tornado{background-image:url("animations/assets/1.0/png/labeled/128/tornado.gif");}
+.jpa-anim-rel-trophy{background-image:url("animations/assets/1.0/png/labeled/128/trophy.gif");}
+.jpa-anim-rel-umbrella_with_rain_drops{background-image:url("animations/assets/1.0/png/labeled/128/umbrella-with-rain-drops.gif");}
+.jpa-anim-rel-unamused_face{background-image:url("animations/assets/1.0/png/labeled/128/unamused-face.gif");}
+.jpa-anim-rel-unicorn{background-image:url("animations/assets/1.0/png/labeled/128/unicorn.gif");}
+.jpa-anim-rel-upside_down_face{background-image:url("animations/assets/1.0/png/labeled/128/upside-down-face.gif");}
+.jpa-anim-rel-violin{background-image:url("animations/assets/1.0/png/labeled/128/violin.gif");}
+.jpa-anim-rel-volcano{background-image:url("animations/assets/1.0/png/labeled/128/volcano.gif");}
+.jpa-anim-rel-warning{background-image:url("animations/assets/1.0/png/labeled/128/warning.gif");}
+.jpa-anim-rel-waving_hand{background-image:url("animations/assets/1.0/png/labeled/128/waving-hand.gif");}
+.jpa-anim-rel-weary_face{background-image:url("animations/assets/1.0/png/labeled/128/weary-face.gif");}
+.jpa-anim-rel-winking_face{background-image:url("animations/assets/1.0/png/labeled/128/winking-face.gif");}
+.jpa-anim-rel-winking_face_with_tongue{background-image:url("animations/assets/1.0/png/labeled/128/winking-face-with-tongue.gif");}
+.jpa-anim-rel-woman_biking{background-image:url("animations/assets/1.0/png/labeled/128/woman-biking.gif");}
+.jpa-anim-rel-woman_dancing{background-image:url("animations/assets/1.0/png/labeled/128/woman-dancing.gif");}
+.jpa-anim-rel-woman_facepalming{background-image:url("animations/assets/1.0/png/labeled/128/woman-facepalming.gif");}
+.jpa-anim-rel-woman_fairy{background-image:url("animations/assets/1.0/png/labeled/128/woman-fairy.gif");}
+.jpa-anim-rel-woman_juggling{background-image:url("animations/assets/1.0/png/labeled/128/woman-juggling.gif");}
+.jpa-anim-rel-woman_raising_hand{background-image:url("animations/assets/1.0/png/labeled/128/woman-raising-hand.gif");}
+.jpa-anim-rel-woman_running{background-image:url("animations/assets/1.0/png/labeled/128/woman-running.gif");}
+.jpa-anim-rel-woman_shrugging{background-image:url("animations/assets/1.0/png/labeled/128/woman-shrugging.gif");}
+.jpa-anim-rel-woman_tipping_hand{background-image:url("animations/assets/1.0/png/labeled/128/woman-tipping-hand.gif");}
+.jpa-anim-rel-woman_zombie{background-image:url("animations/assets/1.0/png/labeled/128/woman-zombie.gif");}
+.jpa-anim-rel-women_with_bunny_ears{background-image:url("animations/assets/1.0/png/labeled/128/women-with-bunny-ears.gif");}
+.jpa-anim-rel-woozy_face{background-image:url("animations/assets/1.0/png/labeled/128/woozy-face.gif");}
+.jpa-anim-rel-writing_hand{background-image:url("animations/assets/1.0/png/labeled/128/writing-hand.gif");}
+.jpa-anim-rel-yawning_face{background-image:url("animations/assets/1.0/png/labeled/128/yawning-face.gif");}
+.jpa-anim-rel-zany_face{background-image:url("animations/assets/1.0/png/labeled/128/zany-face.gif");}
+.jpa-anim-rel-zipper_mouth_face{background-image:url("animations/assets/1.0/png/labeled/128/zipper-mouth-face.gif");}
+.jpa-anim-rel-zombie{background-image:url("animations/assets/1.0/png/labeled/128/zombie.gif");}
+
+

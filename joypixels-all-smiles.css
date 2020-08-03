@@ -1,0 +1,43 @@
+@import url(joypixels-all-smiles-blue.css);
+@import url(joypixels-all-smiles-cyan.css);
+@import url(joypixels-all-smiles-default.css);
+@import url(joypixels-all-smiles-grey.css);
+@import url(joypixels-all-smiles-pink.css);
+@import url(joypixels-all-smiles-rose.css);
+@import url(joypixels-all-smiles-silver.css);
+@import url(joypixels-all-smiles-yellow.css);
+[class*=jpa-] {
+    display: inline-block;
+    line-height: normal;
+    vertical-align: middle;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  
+  .jpa-1em {
+    width: 1em !important;
+    height: 1em !important;
+    margin: -0.2ex 0.05em 0 0.1em !important;
+    background-size: 1em 1em !important;
+  }
+  
+  .jpa-2em {
+    width: 2em !important;
+    height: 2em !important;
+    margin: -0.4ex 0.1em 0 0.2em !important;
+    background-size: 2em 2em !important;
+  }
+  
+  .jpa-3em {
+    width: 3em;
+    height: 3em;
+    margin: -0.3ex 0.15em 0 0.3em;
+    background-size: 3em 3em;
+  }
+  
+  .jpa-4em {
+    width: 4em;
+    height: 4em;
+    margin: -0.8ex 0.2em 0 0.4em;
+    background-size: 4em 4em;
+  }

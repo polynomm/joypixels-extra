@@ -1,0 +1,236 @@
+[class*=jpa-] {
+    display: inline-block;
+    line-height: normal;
+    vertical-align: middle;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  
+  .jpa-1em {
+    width: 1em !important;
+    height: 1em !important;
+    margin: -0.2ex 0.05em 0 0.1em !important;
+    background-size: 1em 1em !important;
+  }
+  
+  .jpa-2em {
+    width: 2em !important;
+    height: 2em !important;
+    margin: -0.4ex 0.1em 0 0.2em !important;
+    background-size: 2em 2em !important;
+  }
+  
+  .jpa-3em {
+    width: 3em;
+    height: 3em;
+    margin: -0.3ex 0.15em 0 0.3em;
+    background-size: 3em 3em;
+  }
+  
+  .jpa-4em {
+    width: 4em;
+    height: 4em;
+    margin: -0.8ex 0.2em 0 0.4em;
+    background-size: 4em 4em;
+  }
+
+.jpa-flat-rel-airplane{background-image:url("flatmoji/assets/1.0/png/labeled/128/airplane.png");}
+.jpa-flat-rel-alarm_clock{background-image:url("flatmoji/assets/1.0/png/labeled/128/alarm-clock.png");}
+.jpa-flat-rel-alien{background-image:url("flatmoji/assets/1.0/png/labeled/128/alien.png");}
+.jpa-flat-rel-american_football{background-image:url("flatmoji/assets/1.0/png/labeled/128/american-football.png");}
+.jpa-flat-rel-angry_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/angry-face.png");}
+.jpa-flat-rel-angry_face_with_horns{background-image:url("flatmoji/assets/1.0/png/labeled/128/angry-face-with-horns.png");}
+.jpa-flat-rel-anguished_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/anguished-face.png");}
+.jpa-flat-rel-automobile{background-image:url("flatmoji/assets/1.0/png/labeled/128/automobile.png");}
+.jpa-flat-rel-avocado{background-image:url("flatmoji/assets/1.0/png/labeled/128/avocado.png");}
+.jpa-flat-rel-baby{background-image:url("flatmoji/assets/1.0/png/labeled/128/baby.png");}
+.jpa-flat-rel-baby_bottle{background-image:url("flatmoji/assets/1.0/png/labeled/128/baby-bottle.png");}
+.jpa-flat-rel-backhand_index_pointing_right{background-image:url("flatmoji/assets/1.0/png/labeled/128/backhand-index-pointing-right.png");}
+.jpa-flat-rel-bacon{background-image:url("flatmoji/assets/1.0/png/labeled/128/bacon.png");}
+.jpa-flat-rel-balloon{background-image:url("flatmoji/assets/1.0/png/labeled/128/balloon.png");}
+.jpa-flat-rel-banana{background-image:url("flatmoji/assets/1.0/png/labeled/128/banana.png");}
+.jpa-flat-rel-baseball{background-image:url("flatmoji/assets/1.0/png/labeled/128/baseball.png");}
+.jpa-flat-rel-basketball{background-image:url("flatmoji/assets/1.0/png/labeled/128/basketball.png");}
+.jpa-flat-rel-beaming_face_with_smiling_eyes{background-image:url("flatmoji/assets/1.0/png/labeled/128/beaming-face-with-smiling-eyes.png");}
+.jpa-flat-rel-beer_mug{background-image:url("flatmoji/assets/1.0/png/labeled/128/beer-mug.png");}
+.jpa-flat-rel-bicycle{background-image:url("flatmoji/assets/1.0/png/labeled/128/bicycle.png");}
+.jpa-flat-rel-birthday_cake{background-image:url("flatmoji/assets/1.0/png/labeled/128/birthday-cake.png");}
+.jpa-flat-rel-blue_book{background-image:url("flatmoji/assets/1.0/png/labeled/128/blue-book.png");}
+.jpa-flat-rel-bomb{background-image:url("flatmoji/assets/1.0/png/labeled/128/bomb.png");}
+.jpa-flat-rel-bone{background-image:url("flatmoji/assets/1.0/png/labeled/128/bone.png");}
+.jpa-flat-rel-bottle_with_popping_cork{background-image:url("flatmoji/assets/1.0/png/labeled/128/bottle-with-popping-cork.png");}
+.jpa-flat-rel-camera{background-image:url("flatmoji/assets/1.0/png/labeled/128/camera.png");}
+.jpa-flat-rel-cat_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/cat-face.png");}
+.jpa-flat-rel-cat_with_tears_of_joy{background-image:url("flatmoji/assets/1.0/png/labeled/128/cat-with-tears-of-joy.png");}
+.jpa-flat-rel-cherries{background-image:url("flatmoji/assets/1.0/png/labeled/128/cherries.png");}
+.jpa-flat-rel-cherry_blossom{background-image:url("flatmoji/assets/1.0/png/labeled/128/cherry-blossom.png");}
+.jpa-flat-rel-christmas_tree{background-image:url("flatmoji/assets/1.0/png/labeled/128/christmas-tree.png");}
+.jpa-flat-rel-clapping_hands{background-image:url("flatmoji/assets/1.0/png/labeled/128/clapping-hands.png");}
+.jpa-flat-rel-cloud{background-image:url("flatmoji/assets/1.0/png/labeled/128/cloud.png");}
+.jpa-flat-rel-clown_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/clown-face.png");}
+.jpa-flat-rel-coconut{background-image:url("flatmoji/assets/1.0/png/labeled/128/coconut.png");}
+.jpa-flat-rel-cold_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/cold-face.png");}
+.jpa-flat-rel-collision{background-image:url("flatmoji/assets/1.0/png/labeled/128/collision.png");}
+.jpa-flat-rel-confused_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/confused-face.png");}
+.jpa-flat-rel-cookie{background-image:url("flatmoji/assets/1.0/png/labeled/128/cookie.png");}
+.jpa-flat-rel-cowboy_hat_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/cowboy-hat-face.png");}
+.jpa-flat-rel-cow_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/cow-face.png");}
+.jpa-flat-rel-crescent_moon{background-image:url("flatmoji/assets/1.0/png/labeled/128/crescent-moon.png");}
+.jpa-flat-rel-crossed_fingers{background-image:url("flatmoji/assets/1.0/png/labeled/128/crossed-fingers.png");}
+.jpa-flat-rel-crown{background-image:url("flatmoji/assets/1.0/png/labeled/128/crown.png");}
+.jpa-flat-rel-crying_cat{background-image:url("flatmoji/assets/1.0/png/labeled/128/crying-cat.png");}
+.jpa-flat-rel-crying_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/crying-face.png");}
+.jpa-flat-rel-cupcake{background-image:url("flatmoji/assets/1.0/png/labeled/128/cupcake.png");}
+.jpa-flat-rel-cup_with_straw{background-image:url("flatmoji/assets/1.0/png/labeled/128/cup-with-straw.png");}
+.jpa-flat-rel-cut_of_meat{background-image:url("flatmoji/assets/1.0/png/labeled/128/cut-of-meat.png");}
+.jpa-flat-rel-deciduous_tree{background-image:url("flatmoji/assets/1.0/png/labeled/128/deciduous-tree.png");}
+.jpa-flat-rel-desktop_computer{background-image:url("flatmoji/assets/1.0/png/labeled/128/desktop-computer.png");}
+.jpa-flat-rel-dizzy_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/dizzy-face.png");}
+.jpa-flat-rel-dog_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/dog-face.png");}
+.jpa-flat-rel-doughnut{background-image:url("flatmoji/assets/1.0/png/labeled/128/doughnut.png");}
+.jpa-flat-rel-downcast_face_with_sweat{background-image:url("flatmoji/assets/1.0/png/labeled/128/downcast-face-with-sweat.png");}
+.jpa-flat-rel-drooling_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/drooling-face.png");}
+.jpa-flat-rel-eggplant{background-image:url("flatmoji/assets/1.0/png/labeled/128/eggplant.png");}
+.jpa-flat-rel-exploding_head{background-image:url("flatmoji/assets/1.0/png/labeled/128/exploding-head.png");}
+.jpa-flat-rel-expressionless_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/expressionless-face.png");}
+.jpa-flat-rel-eyes{background-image:url("flatmoji/assets/1.0/png/labeled/128/eyes.png");}
+.jpa-flat-rel-face_blowing_a_kiss{background-image:url("flatmoji/assets/1.0/png/labeled/128/face-blowing-a-kiss.png");}
+.jpa-flat-rel-face_savoring_food{background-image:url("flatmoji/assets/1.0/png/labeled/128/face-savoring-food.png");}
+.jpa-flat-rel-face_screaming_in_fear{background-image:url("flatmoji/assets/1.0/png/labeled/128/face-screaming-in-fear.png");}
+.jpa-flat-rel-face_vomiting{background-image:url("flatmoji/assets/1.0/png/labeled/128/face-vomiting.png");}
+.jpa-flat-rel-face_with_hand_over_mouth{background-image:url("flatmoji/assets/1.0/png/labeled/128/face-with-hand-over-mouth.png");}
+.jpa-flat-rel-face_with_head_bandage{background-image:url("flatmoji/assets/1.0/png/labeled/128/face-with-head-bandage.png");}
+.jpa-flat-rel-face_with_medical_mask{background-image:url("flatmoji/assets/1.0/png/labeled/128/face-with-medical-mask.png");}
+.jpa-flat-rel-face_with_monocle{background-image:url("flatmoji/assets/1.0/png/labeled/128/face-with-monocle.png");}
+.jpa-flat-rel-face_with_raised_eyebrow{background-image:url("flatmoji/assets/1.0/png/labeled/128/face-with-raised-eyebrow.png");}
+.jpa-flat-rel-face_with_rolling_eyes{background-image:url("flatmoji/assets/1.0/png/labeled/128/face-with-rolling-eyes.png");}
+.jpa-flat-rel-face_with_steam_from_nose{background-image:url("flatmoji/assets/1.0/png/labeled/128/face-with-steam-from-nose.png");}
+.jpa-flat-rel-face_with_symbols_on_mouth{background-image:url("flatmoji/assets/1.0/png/labeled/128/face-with-symbols-on-mouth.png");}
+.jpa-flat-rel-face_with_tears_of_joy{background-image:url("flatmoji/assets/1.0/png/labeled/128/face-with-tears-of-joy.png");}
+.jpa-flat-rel-face_with_thermometer{background-image:url("flatmoji/assets/1.0/png/labeled/128/face-with-thermometer.png");}
+.jpa-flat-rel-fearful_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/fearful-face.png");}
+.jpa-flat-rel-fire{background-image:url("flatmoji/assets/1.0/png/labeled/128/fire.png");}
+.jpa-flat-rel-fish{background-image:url("flatmoji/assets/1.0/png/labeled/128/fish.png");}
+.jpa-flat-rel-flexed_biceps{background-image:url("flatmoji/assets/1.0/png/labeled/128/flexed-biceps.png");}
+.jpa-flat-rel-flushed_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/flushed-face.png");}
+.jpa-flat-rel-folded_hands{background-image:url("flatmoji/assets/1.0/png/labeled/128/folded-hands.png");}
+.jpa-flat-rel-footprints{background-image:url("flatmoji/assets/1.0/png/labeled/128/footprints.png");}
+.jpa-flat-rel-frog{background-image:url("flatmoji/assets/1.0/png/labeled/128/frog.png");}
+.jpa-flat-rel-gem_stone{background-image:url("flatmoji/assets/1.0/png/labeled/128/gem-stone.png");}
+.jpa-flat-rel-ghost{background-image:url("flatmoji/assets/1.0/png/labeled/128/ghost.png");}
+.jpa-flat-rel-grimacing_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/grimacing-face.png");}
+.jpa-flat-rel-grinning_cat{background-image:url("flatmoji/assets/1.0/png/labeled/128/grinning-cat.png");}
+.jpa-flat-rel-grinning_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/grinning-face.png");}
+.jpa-flat-rel-grinning_face_with_big_eyes{background-image:url("flatmoji/assets/1.0/png/labeled/128/grinning-face-with-big-eyes.png");}
+.jpa-flat-rel-grinning_squinting_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/grinning-squinting-face.png");}
+.jpa-flat-rel-hamburger{background-image:url("flatmoji/assets/1.0/png/labeled/128/hamburger.png");}
+.jpa-flat-rel-hibiscus{background-image:url("flatmoji/assets/1.0/png/labeled/128/hibiscus.png");}
+.jpa-flat-rel-hot_beverage{background-image:url("flatmoji/assets/1.0/png/labeled/128/hot-beverage.png");}
+.jpa-flat-rel-hot_dog{background-image:url("flatmoji/assets/1.0/png/labeled/128/hot-dog.png");}
+.jpa-flat-rel-hot_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/hot-face.png");}
+.jpa-flat-rel-hot_pepper{background-image:url("flatmoji/assets/1.0/png/labeled/128/hot-pepper.png");}
+.jpa-flat-rel-house{background-image:url("flatmoji/assets/1.0/png/labeled/128/house.png");}
+.jpa-flat-rel-hugging_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/hugging-face.png");}
+.jpa-flat-rel-hushed_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/hushed-face.png");}
+.jpa-flat-rel-ice_cream{background-image:url("flatmoji/assets/1.0/png/labeled/128/ice-cream.png");}
+.jpa-flat-rel-jack_o_lantern{background-image:url("flatmoji/assets/1.0/png/labeled/128/jack-o-lantern.png");}
+.jpa-flat-rel-key{background-image:url("flatmoji/assets/1.0/png/labeled/128/key.png");}
+.jpa-flat-rel-kissing_face_with_closed_eyes{background-image:url("flatmoji/assets/1.0/png/labeled/128/kissing-face-with-closed-eyes.png");}
+.jpa-flat-rel-laptop_computer{background-image:url("flatmoji/assets/1.0/png/labeled/128/laptop-computer.png");}
+.jpa-flat-rel-lemon{background-image:url("flatmoji/assets/1.0/png/labeled/128/lemon.png");}
+.jpa-flat-rel-light_bulb{background-image:url("flatmoji/assets/1.0/png/labeled/128/light-bulb.png");}
+.jpa-flat-rel-lollipop{background-image:url("flatmoji/assets/1.0/png/labeled/128/lollipop.png");}
+.jpa-flat-rel-loudly_crying_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/loudly-crying-face.png");}
+.jpa-flat-rel-love_you_gesture{background-image:url("flatmoji/assets/1.0/png/labeled/128/love-you-gesture.png");}
+.jpa-flat-rel-lying_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/lying-face.png");}
+.jpa-flat-rel-magnet{background-image:url("flatmoji/assets/1.0/png/labeled/128/magnet.png");}
+.jpa-flat-rel-mobile_phone{background-image:url("flatmoji/assets/1.0/png/labeled/128/mobile-phone.png");}
+.jpa-flat-rel-money_bag{background-image:url("flatmoji/assets/1.0/png/labeled/128/money-bag.png");}
+.jpa-flat-rel-money_mouth_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/money-mouth-face.png");}
+.jpa-flat-rel-money_with_wings{background-image:url("flatmoji/assets/1.0/png/labeled/128/money-with-wings.png");}
+.jpa-flat-rel-monkey_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/monkey-face.png");}
+.jpa-flat-rel-mouse_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/mouse-face.png");}
+.jpa-flat-rel-nauseated_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/nauseated-face.png");}
+.jpa-flat-rel-nerd_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/nerd-face.png");}
+.jpa-flat-rel-ok_hand{background-image:url("flatmoji/assets/1.0/png/labeled/128/ok-hand.png");}
+.jpa-flat-rel-pancakes{background-image:url("flatmoji/assets/1.0/png/labeled/128/pancakes.png");}
+.jpa-flat-rel-panda{background-image:url("flatmoji/assets/1.0/png/labeled/128/panda.png");}
+.jpa-flat-rel-partying_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/partying-face.png");}
+.jpa-flat-rel-party_popper{background-image:url("flatmoji/assets/1.0/png/labeled/128/party-popper.png");}
+.jpa-flat-rel-peach{background-image:url("flatmoji/assets/1.0/png/labeled/128/peach.png");}
+.jpa-flat-rel-pencil{background-image:url("flatmoji/assets/1.0/png/labeled/128/pencil.png");}
+.jpa-flat-rel-pensive_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/pensive-face.png");}
+.jpa-flat-rel-persevering_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/persevering-face.png");}
+.jpa-flat-rel-pie{background-image:url("flatmoji/assets/1.0/png/labeled/128/pie.png");}
+.jpa-flat-rel-pig_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/pig-face.png");}
+.jpa-flat-rel-pile_of_poo{background-image:url("flatmoji/assets/1.0/png/labeled/128/pile-of-poo.png");}
+.jpa-flat-rel-pineapple{background-image:url("flatmoji/assets/1.0/png/labeled/128/pineapple.png");}
+.jpa-flat-rel-pizza{background-image:url("flatmoji/assets/1.0/png/labeled/128/pizza.png");}
+.jpa-flat-rel-pleading_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/pleading-face.png");}
+.jpa-flat-rel-pool_8_ball{background-image:url("flatmoji/assets/1.0/png/labeled/128/pool-8-ball.png");}
+.jpa-flat-rel-poultry_leg{background-image:url("flatmoji/assets/1.0/png/labeled/128/poultry-leg.png");}
+.jpa-flat-rel-rabbit_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/rabbit-face.png");}
+.jpa-flat-rel-rainbow{background-image:url("flatmoji/assets/1.0/png/labeled/128/rainbow.png");}
+.jpa-flat-rel-raised_back_of_hand{background-image:url("flatmoji/assets/1.0/png/labeled/128/raised-back-of-hand.png");}
+.jpa-flat-rel-raising_hands{background-image:url("flatmoji/assets/1.0/png/labeled/128/raising-hands.png");}
+.jpa-flat-rel-red_apple{background-image:url("flatmoji/assets/1.0/png/labeled/128/red-apple.png");}
+.jpa-flat-rel-red_heart{background-image:url("flatmoji/assets/1.0/png/labeled/128/red-heart.png");}
+.jpa-flat-rel-relieved_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/relieved-face.png");}
+.jpa-flat-rel-robot{background-image:url("flatmoji/assets/1.0/png/labeled/128/robot.png");}
+.jpa-flat-rel-rolling_on_the_floor_laughing{background-image:url("flatmoji/assets/1.0/png/labeled/128/rolling-on-the-floor-laughing.png");}
+.jpa-flat-rel-rose{background-image:url("flatmoji/assets/1.0/png/labeled/128/rose.png");}
+.jpa-flat-rel-sad_but_relieved_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/sad-but-relieved-face.png");}
+.jpa-flat-rel-sandwich{background-image:url("flatmoji/assets/1.0/png/labeled/128/sandwich.png");}
+.jpa-flat-rel-shaved_ice{background-image:url("flatmoji/assets/1.0/png/labeled/128/shaved-ice.png");}
+.jpa-flat-rel-shushing_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/shushing-face.png");}
+.jpa-flat-rel-skull_and_crossbones{background-image:url("flatmoji/assets/1.0/png/labeled/128/skull-and-crossbones.png");}
+.jpa-flat-rel-sleeping_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/sleeping-face.png");}
+.jpa-flat-rel-slightly_frowning_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/slightly-frowning-face.png");}
+.jpa-flat-rel-slightly_smiling_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/slightly-smiling-face.png");}
+.jpa-flat-rel-sloth{background-image:url("flatmoji/assets/1.0/png/labeled/128/sloth.png");}
+.jpa-flat-rel-smiling_cat_with_heart_eyes{background-image:url("flatmoji/assets/1.0/png/labeled/128/smiling-cat-with-heart-eyes.png");}
+.jpa-flat-rel-smiling_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/smiling-face.png");}
+.jpa-flat-rel-smiling_face_with_halo{background-image:url("flatmoji/assets/1.0/png/labeled/128/smiling-face-with-halo.png");}
+.jpa-flat-rel-smiling_face_with_heart_eyes{background-image:url("flatmoji/assets/1.0/png/labeled/128/smiling-face-with-heart-eyes.png");}
+.jpa-flat-rel-smiling_face_with_hearts{background-image:url("flatmoji/assets/1.0/png/labeled/128/smiling-face-with-hearts.png");}
+.jpa-flat-rel-smiling_face_with_horns{background-image:url("flatmoji/assets/1.0/png/labeled/128/smiling-face-with-horns.png");}
+.jpa-flat-rel-smiling_face_with_smiling_eyes{background-image:url("flatmoji/assets/1.0/png/labeled/128/smiling-face-with-smiling-eyes.png");}
+.jpa-flat-rel-smiling_face_with_sunglasses{background-image:url("flatmoji/assets/1.0/png/labeled/128/smiling-face-with-sunglasses.png");}
+.jpa-flat-rel-smirking_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/smirking-face.png");}
+.jpa-flat-rel-sneezing_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/sneezing-face.png");}
+.jpa-flat-rel-snowman_without_snow{background-image:url("flatmoji/assets/1.0/png/labeled/128/snowman-without-snow.png");}
+.jpa-flat-rel-soccer_ball{background-image:url("flatmoji/assets/1.0/png/labeled/128/soccer-ball.png");}
+.jpa-flat-rel-soft_ice_cream{background-image:url("flatmoji/assets/1.0/png/labeled/128/soft-ice-cream.png");}
+.jpa-flat-rel-spouting_whale{background-image:url("flatmoji/assets/1.0/png/labeled/128/spouting-whale.png");}
+.jpa-flat-rel-squinting_face_with_tongue{background-image:url("flatmoji/assets/1.0/png/labeled/128/squinting-face-with-tongue.png");}
+.jpa-flat-rel-star_struck{background-image:url("flatmoji/assets/1.0/png/labeled/128/star-struck.png");}
+.jpa-flat-rel-strawberry{background-image:url("flatmoji/assets/1.0/png/labeled/128/strawberry.png");}
+.jpa-flat-rel-sun{background-image:url("flatmoji/assets/1.0/png/labeled/128/sun.png");}
+.jpa-flat-rel-sunglasses{background-image:url("flatmoji/assets/1.0/png/labeled/128/sunglasses.png");}
+.jpa-flat-rel-sushi{background-image:url("flatmoji/assets/1.0/png/labeled/128/sushi.png");}
+.jpa-flat-rel-sweat_droplets{background-image:url("flatmoji/assets/1.0/png/labeled/128/sweat-droplets.png");}
+.jpa-flat-rel-taco{background-image:url("flatmoji/assets/1.0/png/labeled/128/taco.png");}
+.jpa-flat-rel-tangerine{background-image:url("flatmoji/assets/1.0/png/labeled/128/tangerine.png");}
+.jpa-flat-rel-teddy_bear{background-image:url("flatmoji/assets/1.0/png/labeled/128/teddy-bear.png");}
+.jpa-flat-rel-television{background-image:url("flatmoji/assets/1.0/png/labeled/128/television.png");}
+.jpa-flat-rel-thinking_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/thinking-face.png");}
+.jpa-flat-rel-thumbs_down{background-image:url("flatmoji/assets/1.0/png/labeled/128/thumbs-down.png");}
+.jpa-flat-rel-thumbs_up{background-image:url("flatmoji/assets/1.0/png/labeled/128/thumbs-up.png");}
+.jpa-flat-rel-tired_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/tired-face.png");}
+.jpa-flat-rel-tropical_drink{background-image:url("flatmoji/assets/1.0/png/labeled/128/tropical-drink.png");}
+.jpa-flat-rel-tulip{background-image:url("flatmoji/assets/1.0/png/labeled/128/tulip.png");}
+.jpa-flat-rel-tumbler_glass{background-image:url("flatmoji/assets/1.0/png/labeled/128/tumbler-glass.png");}
+.jpa-flat-rel-unamused_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/unamused-face.png");}
+.jpa-flat-rel-unicorn{background-image:url("flatmoji/assets/1.0/png/labeled/128/unicorn.png");}
+.jpa-flat-rel-upside_down_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/upside-down-face.png");}
+.jpa-flat-rel-victory_hand{background-image:url("flatmoji/assets/1.0/png/labeled/128/victory-hand.png");}
+.jpa-flat-rel-watermelon{background-image:url("flatmoji/assets/1.0/png/labeled/128/watermelon.png");}
+.jpa-flat-rel-weary_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/weary-face.png");}
+.jpa-flat-rel-wine_glass{background-image:url("flatmoji/assets/1.0/png/labeled/128/wine-glass.png");}
+.jpa-flat-rel-winking_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/winking-face.png");}
+.jpa-flat-rel-woozy_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/woozy-face.png");}
+.jpa-flat-rel-worried_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/worried-face.png");}
+.jpa-flat-rel-wrapped_gift{background-image:url("flatmoji/assets/1.0/png/labeled/128/wrapped-gift.png");}
+.jpa-flat-rel-yawning_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/yawning-face.png");}
+.jpa-flat-rel-zany_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/zany-face.png");}
+.jpa-flat-rel-zipper_mouth_face{background-image:url("flatmoji/assets/1.0/png/labeled/128/zipper-mouth-face.png");}
